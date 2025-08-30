@@ -8,7 +8,7 @@ this so use at your own risk.
 
 ## Installing locally
 
-Put [gml-mode.el](./gml-mode.el) to some folder `/path/to/gml/`. Add this to your `.emacs`:
+Put [gml-mode.el](./gml-mode.el) in a directory `/path/to/gml/`. Add this to your `.emacs`:
 
 ```el
 ;; Adding `/path/to/gml/` to load-path so `require` can find it
